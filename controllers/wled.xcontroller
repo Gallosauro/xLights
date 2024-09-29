@@ -178,7 +178,7 @@
         </Variant>
     </Controller>
     <Controller Name="GalloTEch GT8">
-        <Variant Name="GT8" Base="WLED:ESP32WLEDSettings">
+        <Variant Name="" Base="WLED:ESP32WLEDSettings">
             <MaxPixelPort>8</MaxPixelPort>
             <MaxSerialPort>0</MaxSerialPort>
             <Port1>15</Port1>
